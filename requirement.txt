@@ -1,1 +1,4 @@
 Seaborn
+pandas
+numpy
+scikit-learn
